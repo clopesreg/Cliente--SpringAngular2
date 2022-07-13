@@ -1,0 +1,5 @@
+package io.github.clopesreg.clientes.rest;
+
+public class ServicoPrestadoController {
+
+}
